@@ -1,0 +1,10 @@
+{application,record_info,
+             [{description,[]},
+              {vsn,"1"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {mod,{record_info_app,[]}},
+              {env,[]},
+              {modules,[record_info,record_info_app,
+                        record_info_compiler_supplement,record_info_sup,
+                        record_info_transform]}]}.
